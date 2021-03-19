@@ -186,5 +186,5 @@ class Spam_Bot(commands.Cog):
 def setup(bot):
     bot.add_cog(Spam_Bot(bot))
 
-
+//codigo coco
                 
